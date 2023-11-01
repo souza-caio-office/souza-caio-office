@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá, eu sou Caio Mendonça! 👋
 
-<!--
-**souza-caio-office/souza-caio-office** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 🌱 Desenvolvedor Web Front-End
+- 🎓 Tenho 17 anos
+- 💻 Apaixonado por tecnologia e programação
 
-Here are some ideas to get you started:
+## Habilidades
+- HTML
+- CSS
+- PHP
+- SQL
+- JAVSCRIPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projetos Destacados
+- Projeto 1: [Jogo da Forca](link_para_o_projeto)
+- Projeto 2: [Projeto Loja de Brinquedos](link_para_o_projeto)
+
+## Contato
+- 📧 Email: [Email](mendoncacaiovs@gmmail.com)
+
+
+## Redes Sociais
+- Instagram: [Instagram](https://instagram.com/_ssoouzaa)
